@@ -1,3 +1,4 @@
 class TreeNode:
     def __init__(self):
-        pass
+        self.left = None
+        self.right = None
